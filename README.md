@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://angular.io/" rel="nofollow"> <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" alt="angular" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/branding/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;
-<a href="https://nodejs.org" rel="nofollow"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="70" height="50" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://nodejs.org" rel="nofollow"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" alt="nodejs" width="70" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;
   </a></p>
 
 
@@ -42,17 +42,17 @@ You can click the Preview link to take a look at your changes.
  ##  <p>· Databases</p> 
   
 <p dir="auto"> 
-  <a href="https://www.microsoft.com/en-us/sql-server/" rel="nofollow"> <img src="https://compassconsult.com/wp-content/uploads/2016/01/SQL-Server-logo.png" width="105" height="70" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server/" rel="nofollow"> <img src="https://compassconsult.com/wp-content/uploads/2016/01/SQL-Server-logo.png" width="105" height="70" style="max-width: 100%;"></a>
  </a></p> 
  
   ##  <p>· Applications</p>
  
 <p dir="auto"> 
-  <a href="https://github.com/" rel="nofollow"> <img src="https://www.tethysplatform.org/images/github-icon.png" alt="github" width="50" height="50" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" height="50" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="50" height="50" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/ivangabriele/vscode-heroku/master/res/icon.png" alt="heroku" width="50" height="50" style="max-width: 100%;"> </a>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://visualstudio.microsoft.com/" rel="nofollow"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20210722231400&path-prefix=es" alt="visualstudio" width="50" height="50" style="max-width: 100%;"> </a>  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/f_auto,q_auto/w_88/v1604018282/1604018282189-71187801-14e60a80-2280-11ea-94c9-e56576f76baf_hxupe4.png" alt="visualcode" width="50" height="50" style="max-width: 100%;"> </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/" rel="nofollow"> <img src="https://www.tethysplatform.org/images/github-icon.png" alt="github" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.heroku.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/ivangabriele/vscode-heroku/master/res/icon.png" alt="heroku" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://visualstudio.microsoft.com/" rel="nofollow"> <img src="https://static.wikia.nocookie.net/logopedia/images/6/62/Brand_Visual_Studio_Win_2019.svg/revision/latest/scale-to-width-down/250?cb=20210722231400&path-prefix=es" alt="visualstudio" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://res.cloudinary.com/hdsqazxtw/image/upload/f_auto,q_auto/w_88/v1604018282/1604018282189-71187801-14e60a80-2280-11ea-94c9-e56576f76baf_hxupe4.png" alt="visualcode" width="50" height="50" style="max-width: 100%;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </a></p>
 
