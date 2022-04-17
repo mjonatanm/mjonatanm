@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @mjonatanm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# Hi there! 👋 I’m Jonatan Morales
+
+- 🏠 I'm from Argentina and I am 32
+- 👩🏻‍💻 I have been working as a **Developer** for 14 years
+- 🎓 I have a Bachelor's Degree on IT
+- 🌱 Currently learning MEAN Full-Stack Development
+- ♥️ Passionate about *coding*, *gaming* 🎮 *weightlifting* 🏋️‍♂️ and *rollerblading* ⛸️
+
 - 📫 How to reach me ...
 
 <!---
